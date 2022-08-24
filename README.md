@@ -1,6 +1,4 @@
-Mettez en place un diagramme decrivant l'analyse fonctionnelle et ensuite une base de donnees relationnelle d'une application de chat  permettant aux developpeurs de mettre en place leur Backend
-
-Fournir 2 fichiers dans votre repo github
-
-- le diagramme en pdf ou png
-- le fichier dump en sql
+Dans ce repository vous trouverez deux fichier :
+Un document PDF qui decrit le diagramme de l'analyse fonctionelle d'une application de chat pour la mise en place du Backend.
+Et un fichier dump base de dnnée sql de l'application
+La presentation detailée sera faite lors de la presentation
